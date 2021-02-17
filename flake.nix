@@ -54,6 +54,10 @@
       silver     = ./nixos/hosts/silver;
 
       iso        = ./nixos/hosts/iso;
+
+      # Raspberry Pi
+      brass      = ./nixos/hosts/brass;
+      sd-rpi1    = ./nixos/hosts/sd-rpi1;
     };
   };
 }
