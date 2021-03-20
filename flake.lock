@@ -37,12 +37,13 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1616174264,
-        "narHash": "sha256-88Pu2xh1p2tixNxdijfqoCqq9ymkEx0d6jc7ycWavLo=",
-        "owner": "nixos",
-        "repo": "nixpkgs",
-        "rev": "f5e8bdd07d1afaabf6b37afc5497b1e498b8046f",
-        "type": "github"
+        "lastModified": 1616257618,
+        "narHash": "sha256-NPijk+1gXuhCucpRQF6aErA1XW3F1m6iLVF2ySmddl0=",
+        "ref": "test/plasma-wayland",
+        "rev": "9f3d56c77d7ebd85296918cea088a7536ae444d0",
+        "revCount": 277499,
+        "type": "git",
+        "url": "file:///home/oxa/repo/fork/nixpkgs"
       },
       "original": {
         "owner": "nixos",
