@@ -1,5 +1,7 @@
 { lib, config, pkgs, modulesPath, ... }:
 {
+  environment.enableDebugInfo = true;
+
   boot.kernel.sysctl = {
     "kernel.sysrq" = 1;
     # "vm.swappiness" = 10;
